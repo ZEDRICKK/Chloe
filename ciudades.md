@@ -1,5 +1,5 @@
 # Ciudades
 
-1. Ciudad Gótica
-2. Metrópolis
+1. Wakanda
+2. Madripur 
 3. Hell's Kitchen
